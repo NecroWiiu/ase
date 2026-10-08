@@ -1,0 +1,13 @@
+{
+  "item.boatcraft.builder_tool": "Builder Tool",
+  "item.boatcraft.erase_tool": "Erase Tool",
+  "item.boatcraft.scale_tool": "Scale Tool",
+  "item.boatcraft.trowel_tool": "Trowel Tool",
+  "item.boatcraft.anchor_tool": "Anchor Tool",
+  "item.boatcraft.transparency_tool": "Transparency Tool",
+  "item.boatcraft.physics_tool": "Physics Tool",
+  "screen.boatcraft.builder.title": "BUILD",
+  "screen.boatcraft.hint": "Pick a block, then right-click a face to place.",
+  "key.boatcraft.open_builder": "Open builder menu",
+  "category.boatcraft": "BoatCraft"
+}

@@ -1,0 +1,13 @@
+{
+  "item.boatcraft.builder_tool": "Herramienta de construcción",
+  "item.boatcraft.erase_tool": "Herramienta de borrar",
+  "item.boatcraft.scale_tool": "Herramienta de escala",
+  "item.boatcraft.trowel_tool": "Herramienta Trowel",
+  "item.boatcraft.anchor_tool": "Herramienta de anclaje",
+  "item.boatcraft.transparency_tool": "Herramienta de transparencia",
+  "item.boatcraft.physics_tool": "Herramienta de física",
+  "screen.boatcraft.builder.title": "CONSTRUIR",
+  "screen.boatcraft.hint": "Elige un bloque y haz clic derecho en una cara para colocarlo.",
+  "key.boatcraft.open_builder": "Abrir menú de construcción",
+  "category.boatcraft": "BoatCraft"
+}
